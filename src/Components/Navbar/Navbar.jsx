@@ -9,6 +9,7 @@ const Navbar = () => {
 
     <div className='nav'>
         {/* <h1></h1> */}
+        <img src="sago logo" alt="no image"  width={100} height={50}/>
         <ul className='nav-links' style={{backgroundColor:"red"}}>
             <Link to ='/' className='Fruitsandveg'>  
             <li>Fruits and veg</li> 
