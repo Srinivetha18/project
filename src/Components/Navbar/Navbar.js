@@ -8,8 +8,8 @@ const Navbar = () => {
   return (
 
     <div className='nav'>
-        <h1> </h1>
-        <ul className='nav-links'>
+        <h1></h1>
+        <ul className='nav-links' style={{backgroundColor:"red"}}>
             <Link to ='/' className='Fruitsandveg'>  
             <li>Fruits and veg</li> 
              </Link>
